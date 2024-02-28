@@ -1,3 +1,3 @@
 # WhatsThePassword
 
-This project has not yet been migrated from The previous github account.
+This project has not yet been migrated from the previous github account.
